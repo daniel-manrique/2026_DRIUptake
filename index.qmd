@@ -1,7 +1,11 @@
 ---
 title: "Redefining uptake"
 subtitle: "From Friction to Sovereignty in Canada’s DRI Ecosystem"
-author: "Digital Research Alliance of Canada"
+author: 
+  - name: FDaniel Manrique-Castano
+    email: daniel.manrique-castano@alliancecan.ca
+    affiliations:
+      - name: Digital Research Alliance of Canada
 format:
   revealjs:
     theme: [white, custom.scss]
@@ -186,3 +190,5 @@ Connecting ARC, RSD, and RDM into a functional ecosystem.
 ::: notes
 "As we align with the RDA’s vision on driving DRI capacity and uptake, right now c=Canada is making several efforts to build a unified architecture known as the Canadian Research Data Platform. With this, we envisage to combine igh-value compute resources with our incredibly rich national data, and data management tools, all supported by a distributed workforce of skilled professionals around the country. We hope that in the near future, by using persistent identifiers like RAiDs to glue together projects, data, and computations, we can create a sustainable and sovereign ecosystem that could be the model for other countries. In this context, for us, measuring DRI uptake, will mean ensuring this interconnected machine works for every researcher in the country. Thank you."
 :::
+
+## {background-image="images/LastSlide.png" background-size="contain"}
