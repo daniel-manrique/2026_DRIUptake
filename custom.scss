@@ -1,0 +1,93 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Ubuntu:wght@400;700&display=swap');
+
+// Colors from Alliance branding
+$primary: #2c3e50;
+$secondary: #3498db;
+$accent: #e74c3c;
+$success: #27ae60;
+$light-bg: #FFFFFF;
+$dark-text: #2c3e50;
+
+// Fonts
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$presentation-heading-font: 'Ubuntu', sans-serif;
+
+// Reveal.js specific variables
+$body-bg: $light-bg;
+$body-color: $dark-text;
+$link-color: $secondary;
+$selection-bg: rgba($secondary, 0.3);
+
+/*-- scss:rules --*/
+
+.reveal h1 {
+  font-size: 70px; 
+  text-align: center;
+  margin-bottom: 80px !important;
+}
+
+.reveal h2 {
+  font-size: 50px; 
+  text-align: center;
+  margin-bottom: 40px !important;
+}
+
+.reveal h2 + .columns, 
+.reveal h2 + div,
+.reveal h2 + p {
+  margin-top: 50px !important;
+}
+
+.reveal h3 {
+  font-size: 40px; 
+}
+
+.reveal h4 {
+  font-size: 32px;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none;
+  font-weight: 700;
+  color: $primary;
+  font-family: $presentation-heading-font;
+}
+
+.reveal p, .reveal li, .reveal span {
+  font-family: $font-family-sans-serif;
+}
+
+.reveal .slides section {
+  text-align: center;
+}
+
+.reveal .slide-number {
+  color: $primary;
+  background-color: transparent;
+}
+
+.reveal .footer {
+  font-size: 0.5em;
+  color: #7f8c8d;
+}
+
+.callout {
+  border-radius: 10px;
+  border-left-width: 10px;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+// Custom animations or styles
+.reveal .slides section[data-background-opacity] h2 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}

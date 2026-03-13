@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html#dri-uptake-in-the-real-world-reamins-a-challengue",
+    "href": "index.html#dri-uptake-in-the-real-world-reamins-a-challengue",
+    "title": "Redefining uptake",
+    "section": "DRI Uptake in the Real World Reamins a Challengue",
+    "text": "DRI Uptake in the Real World Reamins a Challengue\n\n\nRDA Pillars of “Uptake”\n\nUse\nIntegration\nCollaboration\n\n\nThe reality: Fragmented ecosystem\n\nFragmented workflows, rigid silos, and queuing delays\n\n\n“To understand uptake, we must first embrace a critical paradigm shift. While we could agree in certain principles when refering to DRI: USE, Inegration and Collaboration, historically, DRI uptake has been measured in silos: Advanced Research Computing over here, Research Software over there, and, specially, Research Data Management treated as an administrative afterthought at the end of a project, and considered many times just aption or an add-on. We all agree that we cannot operate that way anymore.”"
+  },
+  {
+    "objectID": "index.html#the-paradigm-shift-beyond-isolated-pillars",
+    "href": "index.html#the-paradigm-shift-beyond-isolated-pillars",
+    "title": "Redefining uptake",
+    "section": "The Paradigm Shift: Beyond Isolated Pillars",
+    "text": "The Paradigm Shift: Beyond Isolated Pillars\n\n\n\n\n\n\n\n\n\nData Curation: The Essential Connective Tissue\n\n\nConnecting ARC, RSD, and RDM into a functional ecosystem.\n\n\n\n\n“We can argue then that uptake emphasizes seamlessly connecting these aspects of research, more like a relay towers that only fulfill their purpose when they communicate with each other. In Canada, we are treating these components like a national relay network. RDM, Compute, and Software must maintain a continuous line of sight. When a researcher uses advanced compute for high-performance processing, we hope that seamless data management allows them to handle petabyte-scale datasets without having a stroke. I think we are not there yet, but we are getting there. And we are also building different environments, like RAIDs. In this sense, we may say that DRI uptake occurs when a researcher doesn’t experience friction moving between these nodes.”"
+  },
+  {
+    "objectID": "index.html#dri-in-action-canadian-cases",
+    "href": "index.html#dri-in-action-canadian-cases",
+    "title": "Redefining uptake",
+    "section": "DRI in Action: Canadian Cases",
+    "text": "DRI in Action: Canadian Cases\n\n\n\nCBRAIN (Neuroscience)\nInfrastructure Model: Web-based distributed platform connecting to Alliance resources.\nThe RDM Solution: Federated data spaces that create reproducible workflows. Links input data and analytic tools without manual downloading.\n\n\nPan-Canadian Genome Library (Health)\nInfrastructure Model: National secure data storage and harmonization.\nThe RDM Solution: Unifying 100,000+ genomes (20PB of data) into a long-term archive, ending the era of stranded data at the end of isolated grants.\n\n\nColibri Initiative (HSS)\nInfrastructure Model: Accessible, secure open-source cloud Virtual Machines.\nThe RDM Solution: Providing a secure, non-commercial collaborative environment to manage qualitative, identifiable Humanities & Social Sciences data.\n\n\n“These aren’t just theoretical models; but we can say they are operational realities. In Canada we have these tree examples, CBRAIN that links neuroscience research via a distributed platform. The Pan-Canadian Genome Library that is unifying enormous amounts of data, over 20 petabytesinto a sustainable archiv accesible for averyone. And the Colibri Initiative, that provides the Humanities and Social Sciences with secure, non-commercial collaborative environments. So, in this cases, we see an effective infrastructure that isn’t just about raw compute power; but also it’s about providing secure, tailored data stewardship that builds trust across every discipline. Also, we may say that, in this cases for example, we can refer to ‘uptake’ in terms of how seamlessly these national resources are used by researchers across institutional borders.”"
+  },
+  {
+    "objectID": "index.html#the-reality-of-demand-rac-2025-metrics",
+    "href": "index.html#the-reality-of-demand-rac-2025-metrics",
+    "title": "Redefining uptake",
+    "section": "The Reality of Demand: RAC 2025 Metrics",
+    "text": "The Reality of Demand: RAC 2025 Metrics\n\n\n\n\n\nApplications Submitted\n\n\n\n\n\n\nCloud Storage Demand\n\n\n\n\n\n\nCPU Allocation\n\n\n\n\n\nRising Demand: RAC 2025 shows a significant upward trend in resource requests.\nThe Hidden Gap: While capacity is growing, much of it goes unused or misused due to gaps in RDM competence.\nCritical Uptake Metric: True adoption depends on researcher skills to manage petabytes of data, not just raw hardware availability.\n\n\n\n“Now, this is few quantitative evidence driving this need for interconnection in our country. The 2025 Resource Allocation Competition (RAC) from the Alliance, shows an increasin thrend in the demand for resources. Our national ARC platform is now serving over 20,000 researchers, including more than 5,800 faculty members across Canadian institutionsLook, with the investments done last year, we finally are able to surpass the capacity (which is the blue line) compared to the request. But these charts hide another uncomfortable truth that many of us are aware of. Much of that required space goes unused or is misused simply because of the widespread lack of competence in research data management among researchers. But here is the critical point: hardware is finite. We cannot outspend on pure hardware volume. So, when resources are this competitive, data optimization becomes imperative.We know that it is not just about hard drives to store petabytes of data, but also about strategies to manage them properly, ensure their documentation, and reduce waste. So this is another challenge if one intends to measure DRI uptake: to what extent do researchers have the skills to effectively manage these resources. This is something that, to my knowledge, it is still unkown in Canada and must be an active are of development. So, it is not about who or how many users a system have but also about what is the quality of the use and competence.”"
+  },
+  {
+    "objectID": "index.html#reclaiming-scarce-resources-calcul-québec-case",
+    "href": "index.html#reclaiming-scarce-resources-calcul-québec-case",
+    "title": "Redefining uptake",
+    "section": "Reclaiming Scarce Resources: Calcul Québec Case",
+    "text": "Reclaiming Scarce Resources: Calcul Québec Case\n\n$90,000 Saved\n125 Interventions\n\n\n\n\n\n\nAnalysts monitored unoptimized jobs.\nTarget interventions corrected workflows.\nPrevented compute waste on constrained resources.\n\n\n\n“and when we fail to integrate RDM and software support precious infrastructure is wasted. Here is an example provided by Calcul Qu[ebec in the last DRI connect in Canada, where they explained that minitored unoptimized jobs and made 125 targeted interventions to help researchers correct their workflows. This was transformed in savings of $90,000 worth of compute waste. This example showcases that it is not precicely the case that researchers love to waste resources; byt that they simply lack competence to optimize their workflows. Again, DRI uptake must measure this aspect of competence.”"
+  },
+  {
+    "objectID": "index.html#dri-uptake-eradicating-friction",
+    "href": "index.html#dri-uptake-eradicating-friction",
+    "title": "Redefining uptake",
+    "section": "DRI Uptake: Eradicating Friction",
+    "text": "DRI Uptake: Eradicating Friction\n\n\n\n\n\nMove beyond login hours and gigabytes.\nInfrastructure as an invisible part of the research process.\nIntegrated environments feed into advanced compute.\n\n\n\n“Experience is the ultimate metric of uptake.”\n\n\n“This brings us to a key message of ‘Integration of research workflows’. We cannot measure real DRI uptake just by counting login hours or total gigabytes stored. We need to also find out how well our infrastructure, policies qadn pracices benefit and removes technical friction for the researcher. When a researcher has to navigate complex command lines or read 400-page manuals just to manage their data, uptake stalls. But when we provide integrated environments to develop competencies, which are transformed into a more efficient and dynamic work environment, aspects like data management and curation feeds directly advanced compute without administrative burden. I think that at this point is when the tools the Alliance or other instituitions develop become an integral for the research process. We can say then that a frictionless experience is the ultimate metric of uptake.”"
+  },
+  {
+    "objectID": "index.html#the-connected-future-canadas-dri-vision",
+    "href": "index.html#the-connected-future-canadas-dri-vision",
+    "title": "Redefining uptake",
+    "section": "The Connected Future: Canada’s DRI Vision",
+    "text": "The Connected Future: Canada’s DRI Vision\n\n\n\n\n\nHardware: Scarce, high-value compute.\nCuration: Federated national data.\nPeople: Distributed skilled workforce.\nGlue: Persistent identifiers (RAiDs).\n\n\n\n“As we align with the RDA’s vision on driving DRI capacity and uptake, right now c=Canada is making several efforts to build a unified architecture known as the Canadian Research Data Platform. With this, we envisage to combine igh-value compute resources with our incredibly rich national data, and data management tools, all supported by a distributed workforce of skilled professionals around the country. We hope that in the near future, by using persistent identifiers like RAiDs to glue together projects, data, and computations, we can create a sustainable and sovereign ecosystem that could be the model for other countries. In this context, for us, measuring DRI uptake, will mean ensuring this interconnected machine works for every researcher in the country. Thank you.”"
+  }
+]

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "2026 DRI Uptake"
+  sidebar: false
+
+format:
+  revealjs:
+    theme: [white, custom.scss]
+    logo: images/alliance_logo.png
+    footer: "Digital Research Alliance of Canada"
+    transition: fade
+    slide-number: true
+    show-slide-number: all
+    preview-links: auto
+    center: true
+    background-transition: fade
+    chalkboard: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
