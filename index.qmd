@@ -2,7 +2,7 @@
 title: "Redefining uptake"
 subtitle: "From Friction to Sovereignty in Canada’s DRI Ecosystem"
 author: 
-  - name: FDaniel Manrique-Castano
+  - name: Daniel Manrique-Castano
     email: daniel.manrique-castano@alliancecan.ca
     affiliations:
       - name: Digital Research Alliance of Canada
